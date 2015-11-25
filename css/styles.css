@@ -1,49 +1,49 @@
 
 body {
-	background-color: white;
-	background-repeat: no-repeat;
-	background-size: cover;
+  background-color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 article {
-	width: 80%;
-	margin: 20px auto;
-	background: rgba(230,230,230,0.5);
-	padding: 40px;
-	color: #444;
-	font-family: helvetica-neue, arial, calibri;
-	font-size: 14px;
-	line-height: 1.4;
+  width: 80%;
+  margin: 20px auto;
+  background: rgba(230,230,230,0.5);
+  padding: 40px;
+  color: #444;
+  font-family: helvetica-neue, arial, calibri;
+  font-size: 14px;
+  line-height: 1.4;
 }
 
 article h1 {
-	font-size: 20px;
-	margin-bottom: 30px;
+  font-size: 20px;
+  margin-bottom: 30px;
 }
 
 article h3 {
-	font-size: 15px;
-	font-weight: bold;
-	margin-bottom: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
 article hr {
-	display: block;
-	height: 1px;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	background-color: rgba(0,0,0,0.03);
-	border-color: transparent;
-	border-size: 0;
-	border-bottom: solid 1px white;
+  display: block;
+  height: 1px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgba(0,0,0,0.03);
+  border-color: transparent;
+  border-size: 0;
+  border-bottom: solid 1px white;
 }
 
 article p {
-	margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 article li {
-	list-style: none;
-	margin-bottom: 30px;
+  list-style: none;
+  margin-bottom: 30px;
 }
 
